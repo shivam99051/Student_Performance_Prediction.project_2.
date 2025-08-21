@@ -53,6 +53,7 @@ The project uses a dataset named **student_scores_dataset.csv** which contains t
 
 ## Output Screenshot:
 https://github.com/shivam99051/Student_Performance_Prediction.project_2./blob/main/Screenshot%202025-08-21%20142555.png
+img width="773" height="401" alt="Image" src="https://github.com/user-attachments/assets/c2ad8a6e-87a3-4bb7-b768-8b585b369643" />``
 
 
 

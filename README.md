@@ -50,10 +50,25 @@ The project uses a dataset named **student_scores_dataset.csv** which contains t
 - Output the Predicted Exam Score.
 
 
-
 ## Output Screenshot:
-https://github.com/shivam99051/Student_Performance_Prediction.project_2./blob/main/Screenshot%202025-08-21%20142555.png
-img width="773" height="401" alt="Image" src="https://github.com/user-attachments/assets/c2ad8a6e-87a3-4bb7-b768-8b585b369643" />``
+
+<img width="773" height="401" alt="Screenshot 2025-08-21 142215" src="https://github.com/user-attachments/assets/0383a42e-efeb-41b1-92a4-35d23a693ac7" />
+
+<img width="1345" height="372" alt="Screenshot 2025-08-21 142336" src="https://github.com/user-attachments/assets/2c71af53-baa0-46ed-b273-3cdcb469a85b" />
+
+<img width="1254" height="300" alt="Screenshot 2025-08-21 142406" src="https://github.com/user-attachments/assets/7d519018-88d4-4538-91e3-de263ae096cb" />
+
+<img width="1349" height="321" alt="Screenshot 2025-08-21 142509" src="https://github.com/user-attachments/assets/03130ebe-6a58-475d-8899-15615cd9ff48" />
+
+
+<img width="1398" height="385" alt="Screenshot 2025-08-21 142531" src="https://github.com/user-attachments/assets/0f331156-fd94-4204-b0d9-0920cdf00046" />
+
+<img width="582" height="338" alt="Screenshot 2025-08-21 142546" src="https://github.com/user-attachments/assets/53cbb0e9-2a2d-4f8e-b2ec-cd362eb34999" />
+ 
+ <img width="518" height="202" alt="Screenshot 2025-08-21 142555" src="https://github.com/user-attachments/assets/3753b08f-6abb-4e13-9ed5-81b56a691fe8" />
+
+
+
 
 
 
